@@ -1,0 +1,4 @@
+[debug] [consulta-test] Classpath dependencies List()
+[debug] [consulta-test] Dependencies from configurations List(consulta)
+[debug] Bloop wrote the configuration of project 'consulta-test' to 'C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\.bloop\consulta-test.json'
+[success] Generated .bloop\consulta-test.json

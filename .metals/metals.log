@@ -1,0 +1,101 @@
+2024.11.21 16:14:08 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.21 16:14:08 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:15 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:15 INFO  running 'C:\Users\Laboratorios\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin17-binaries\releases\download\jdk-17.0.13%252B11\OpenJDK17U-jdk_x64_windows_hotspot_17.0.13_11.zip\jdk-17.0.13+11\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\LABORA~1\AppData\Local\Temp\metals16086219991931463152\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.11.21 16:14:15 ERROR [info] [launcher] getting org.scala-sbt sbt 1.10.5  (this may take some time)...
+2024.11.21 16:14:21 INFO  no build target found for c:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:37 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:37 WARN  no build target for: C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc
+2024.11.21 16:14:37 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:39 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:39 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:39 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:39 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:39 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:39 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:41 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:41 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:41 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:41 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:41 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:41 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:41 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:41 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:41 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:42 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:42 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:42 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:42 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:42 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:42 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:42 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:43 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:43 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:43 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:43 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:43 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:44 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:44 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:47 WARN  no build target for: C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc
+2024.11.21 16:14:49 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:49 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:49 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:49 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:49 INFO  no build target found for C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 16:14:52 INFO  time: evaluated worksheet 'Simpson.worksheet.sc' in 4.61s
+2024.11.21 16:14:58 ERROR [info] [launcher] getting Scala 2.12.20 (for sbt)...
+2024.11.21 16:15:00 INFO  [info] welcome to sbt 1.10.5 (Eclipse Adoptium Java 17.0.13)
+2024.11.21 16:15:03 INFO  [info] loading settings for project consulta-build-build from metals.sbt ...
+2024.11.21 16:15:05 INFO  [info] loading project definition from C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\project\project
+2024.11.21 16:15:11 INFO  [info] loading settings for project consulta-build from metals.sbt ...
+2024.11.21 16:15:11 INFO  [info] loading project definition from C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\project
+2024.11.21 16:15:22 INFO  [success] Generated .bloop\consulta-build.json
+2024.11.21 16:15:22 INFO  [success] Total time: 11 s, completed Nov 21, 2024, 4:15:22 PM
+2024.11.21 16:15:24 INFO  [info] loading settings for project consulta from build.sbt ...
+2024.11.21 16:15:24 INFO  [info] set current project to hello-world (in build file:/C:/Users/Laboratorios/Documents/SCALA/Simpson-1-3/consulta/)
+2024.11.21 16:15:31 WARN  no build target for: C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\consulta\src\main\scala\Simpson.worksheet.sc
+2024.11.21 16:15:32 INFO  time: evaluated worksheet 'Simpson.worksheet.sc' in 1.36s
+2024.11.21 16:16:12 INFO  [success] Generated .bloop\consulta-test.json
+2024.11.21 16:16:12 INFO  [success] Generated .bloop\consulta.json
+2024.11.21 16:16:12 INFO  [success] Total time: 48 s, completed Nov 21, 2024, 4:16:12 PM
+2024.11.21 16:16:13 INFO  time: ran 'sbt bloopInstall' in 1m57s
+2024.11.21 16:16:13 INFO  Attempting to connect to the build server...
+2024.11.21 16:16:13 INFO  Found a Bloop server running
+2024.11.21 16:16:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\.metals\bsp.trace.json or C:\Users\Laboratorios\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.21 16:16:34 ERROR Timeout waiting for 'build/initialize' response
+2024.11.21 16:16:34 WARN  Retrying connection to the build server Bloop
+2024.11.21 16:16:34 INFO  Found a Bloop server running
+2024.11.21 16:16:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\.metals\bsp.trace.json or C:\Users\Laboratorios\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.21 16:16:54 ERROR Timeout waiting for 'build/initialize' response
+2024.11.21 16:16:54 WARN  Retrying connection to the build server Bloop
+2024.11.21 16:16:54 INFO  Found a Bloop server running
+2024.11.21 16:16:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\.metals\bsp.trace.json or C:\Users\Laboratorios\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.21 16:17:15 ERROR Timeout waiting for 'build/initialize' response
+2024.11.21 16:17:15 WARN  Retrying connection to the build server Bloop
+2024.11.21 16:17:15 INFO  Found a Bloop server running
+2024.11.21 16:17:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Laboratorios\Documents\SCALA\Simpson-1-3\.metals\bsp.trace.json or C:\Users\Laboratorios\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.21 16:17:16 INFO  time: Connected to build server in 1m3s
+2024.11.21 16:17:16 INFO  Connected to Build server: Bloop v2.0.2
+2024.11.21 16:17:16 INFO  time: Imported build in 0.11s
+2024.11.21 16:17:16 INFO  running doctor check
+2024.11.21 16:17:16 INFO  java targets: consulta-test, consulta
+2024.11.21 16:17:26 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.21 16:17:27 INFO  time: indexed workspace in 11s
+2024.11.21 16:17:58 INFO  time: evaluated worksheet 'Simpson.worksheet.sc' in 30s
+2024.11.21 16:17:58 WARN  thread interrupt: Evaluating Worksheet Simpson.worksheet.sc
+2024.11.21 16:17:59 INFO  time: code lens generation in 1.74s
+2024.11.21 16:18:49 INFO  time: evaluated worksheet 'Simpson.worksheet.sc' in 3.79s
+[31merror[39m: consulta\src\main\scala\Simpson.worksheet.sc:13:31: Int(1) does not take parameters
+def funInt7 (x:Int): Double = (1)(1+math.pow(x,2))
+                              ^^^^^^^^^^^^^^^^^^^^
+2024.11.21 16:41:30 INFO  time: evaluated worksheet 'Simpson.worksheet.sc' in 0.34s
+2024.11.21 16:45:53 INFO  time: evaluated worksheet 'Simpson.worksheet.sc' in 0.65s
+something's wrong: no file:///C:/Users/Laboratorios/Documents/SCALA/Simpson-1-3/consulta/src/main/scala/Simpson.worksheet.sc in (Double, <error>)RangePosition(file:///C:/Users/Laboratorios/Documents/SCALA/Simpson-1-3/consulta/src/main/scala/Simpson.worksheet.sc, 706, 706, 723)
+[31merror[39m: consulta\src\main\scala\Simpson.worksheet.sc:33:7: missing argument list for method funInt1 in class MdocApp
+Unapplied methods are only converted to functions when a function type is expected.
+You can make this conversion explicit by writing `funInt1 _` or `funInt1(_)` instead of `funInt1`.
+Error(funInt1,7.33)
+      ^^^^^^^
+2024.11.21 16:50:05 INFO  time: evaluated worksheet 'Simpson.worksheet.sc' in 0.4s
+2024.11.21 16:50:17 INFO  time: evaluated worksheet 'Simpson.worksheet.sc' in 0.7s
+2024.11.21 16:51:51 INFO  time: evaluated worksheet 'Simpson.worksheet.sc' in 0.77s
