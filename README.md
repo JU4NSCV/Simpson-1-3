@@ -10,11 +10,7 @@ IGM
 
 Donde x = IMG
 
-Utilizando los conceptos expuestos anteriormente debe:
-
-## 1. Crear una función con nombre (integracion) que use el método de Simpson para
-
-calcular el valor aproximado de cualquier función . 
+## 1. Crear una función con nombre (integracion) que use el método de Simpson para calcular el valor aproximado de cualquier función. 
 
 Codigo de la funcion de integracion implementado en Scala
 
@@ -38,7 +34,8 @@ Se recomienda analizar lo siguiente:
  
 <summary> PRIMERA INTEGRACION </summary>
 
-IGM
+**Ejemplos de Funciones Anonimas Basicas**
+ ![Ejemplos de Funciones Anonimas Basicas](https://github.com/JU4NSCV/CONSULTA-PFR/blob/main/IMG/ejemplos.png)
 
 Foto de ecuacion a realizar
 
