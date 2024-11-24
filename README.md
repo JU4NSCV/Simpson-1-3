@@ -6,9 +6,10 @@
 Uno de los métodos de integración numérica se denomina como Simpson 1/3. Ese
 método estable lo siguiente:
 
-IGM
+**METODO DE SIMPSON**
+ ![Ecuacion a realizar](https://github.com/JU4NSCV/Simpson-1-3/blob/main/img/1.png)
 
-Donde x = IMG
+Donde x = ![Ecuacion a realizar](https://github.com/JU4NSCV/Simpson-1-3/blob/main/img/2.png)
 
 ## 1. Crear una función con nombre (integracion) que use el método de Simpson para calcular el valor aproximado de cualquier función. 
 
@@ -34,11 +35,10 @@ Se recomienda analizar lo siguiente:
  
 <summary> PRIMERA INTEGRACION </summary>
 
-**Ejemplos de Funciones Anonimas Basicas**
- ![Ejemplos de Funciones Anonimas Basicas](https://github.com/JU4NSCV/CONSULTA-PFR/blob/main/IMG/ejemplos.png)
+**Ecuacion a realizar**
 
-Foto de ecuacion a realizar
-
+ ![Ecuacion a realizar](https://github.com/JU4NSCV/Simpson-1-3/blob/main/img/3.png)
+ 
 Codigo de la funcion implementada en Scala
 
 ```Scala
@@ -63,9 +63,9 @@ Resultado
  
 <summary> SEGUNDA INTEGRACION </summary>
 
-IGM
+**Ecuacion a realizar**
 
-Foto de ecuacion a realizar
+ ![Ecuacion a realizar](https://github.com/JU4NSCV/Simpson-1-3/blob/main/img/4.png)
 
 Codigo de la funcion implementada en Scala
 
@@ -82,7 +82,7 @@ Integracion(funInt2,0,2)
 Resultado
 
 ```
-7.33333333
+8.0
 ```
 
 </details>
@@ -91,9 +91,9 @@ Resultado
  
 <summary> TERCERA INTEGRACION </summary>
 
-IGM
+**Ecuacion a realizar**
 
-Foto de ecuacion a realizar
+ ![Ecuacion a realizar](https://github.com/JU4NSCV/Simpson-1-3/blob/main/img/5.png)
 
 Codigo de la funcion implementada en Scala
 
@@ -110,7 +110,7 @@ Integracion(funInt3,-1,1)
 Resultado
 
 ```
-7.33333333
+4.666666666666667
 ```
 
 </details>
@@ -119,9 +119,9 @@ Resultado
  
 <summary> CUARTA INTEGRACION </summary>
 
-IGM
+**Ecuacion a realizar**
 
-Foto de ecuacion a realizar
+ ![Ecuacion a realizar](https://github.com/JU4NSCV/Simpson-1-3/blob/main/img/6.png)
 
 Codigo de la funcion implementada en Scala
 
@@ -138,7 +138,7 @@ Integracion(funInt4,1,2)
 Resultado
 
 ```
-7.33333333
+1.388888888888889
 ```
 
 </details>
@@ -147,9 +147,9 @@ Resultado
  
 <summary> QUINTA INTEGRACION </summary>
 
-IGM
+**Ecuacion a realizar**
 
-Foto de ecuacion a realizar
+ ![Ecuacion a realizar](https://github.com/JU4NSCV/Simpson-1-3/blob/main/img/7.png)
 
 Codigo de la funcion implementada en Scala
 
@@ -166,7 +166,7 @@ Integracion(funInt5,0,1)
 Resultado
 
 ```
-7.33333333
+-1.286380304743174
 ```
 
 </details>
@@ -175,9 +175,9 @@ Resultado
  
 <summary> SEXTA INTEGRACION </summary>
 
-IGM
+**Ecuacion a realizar**
 
-Foto de ecuacion a realizar
+ ![Ecuacion a realizar](https://github.com/JU4NSCV/Simpson-1-3/blob/main/img/8.png)
 
 Codigo de la funcion implementada en Scala
 
@@ -194,7 +194,7 @@ Integracion(funInt6,2,3)
 Resultado
 
 ```
-7.33333333
+0.9511844635310913
 ```
 </details>
 
@@ -202,9 +202,9 @@ Resultado
  
 <summary> SEPTIMA INTEGRACION </summary>
 
-IGM
+**Ecuacion a realizar**
 
-Foto de ecuacion a realizar
+ ![Ecuacion a realizar](https://github.com/JU4NSCV/Simpson-1-3/blob/main/img/9.png)
 
 Codigo de la funcion implementada en Scala
 
@@ -221,20 +221,23 @@ Integracion(funInt7,0,1)
 Resultado
 
 ```
-0.9166666
+0.9166666666666666
 ```
 
 </details>
 
 ## 3. Calcula el error que se presenta en cada aproximación. El error es igual al valor absoluto de la resta entre el valor esperado y el valor obtenido 
 
+**Formula de calculo de error**
+
+ ![Ecuacion a realizar](https://github.com/JU4NSCV/Simpson-1-3/blob/main/img/10.png)
+
+**Funcion para calcular el error**
 
 ```Scala
 val Error: (Double,Double)=> Double = (vE:Double, vO:Double) => math.abs(vE - vO)
 ```
 
-Funcion para calcular el error 
-
 <details>
  
 <summary> PRIMERA EVALUACION DE ERROR </summary>
@@ -254,23 +257,23 @@ Codigo del marguen de error
 Resultado
 
 ```
-7.33333333
+0.0033333333333329662
 ```
 
 </details>
 
 <details>
  
-<summary> PRIMERA EVALUACION DE ERROR </summary>
+<summary> SEGUNDA EVALUACION DE ERROR </summary>
 
 ```Scala
-def funInt1 (x:Int): Double = -math.pow(x,2)+8*x-12
+def funInt2 (x:Int): Double = 3*math.pow(x,2)
 ```
 
 Codigo de la funcion implementada en Scala
 
 ```Scala
-Error(Integracion(funInt1,3,5),7.33)
+Error(Integracion(funInt2,0,2),8)
 ```
 
 Codigo del marguen de error
@@ -278,23 +281,23 @@ Codigo del marguen de error
 Resultado
 
 ```
-7.33333333
+0.0
 ```
 
 </details>
 
 <details>
  
-<summary> PRIMERA EVALUACION DE ERROR </summary>
+<summary> TERCERA EVALUACION DE ERROR </summary>
 
 ```Scala
-def funInt1 (x:Int): Double = -math.pow(x,2)+8*x-12
+def funInt3 (x:Int): Double = x+2*math.pow(x,2)-math.pow(x,3)+5*math.pow(x,4)
 ```
 
 Codigo de la funcion implementada en Scala
 
 ```Scala
-Error(Integracion(funInt1,3,5),7.33)
+Error(Integracion(funInt3,-1,1),3.333)
 ```
 
 Codigo del marguen de error
@@ -302,23 +305,23 @@ Codigo del marguen de error
 Resultado
 
 ```
-7.33333333
+1.3336666666666668
 ```
 
 </details>
 
 <details>
  
-<summary> PRIMERA EVALUACION DE ERROR </summary>
+<summary> CUARTA EVALUACION DE ERROR </summary>
 
 ```Scala
-def funInt1 (x:Int): Double = -math.pow(x,2)+8*x-12
+def funInt4 (x:Int): Double = (2*x+1)/(math.pow(x,2)+x)
 ```
 
 Codigo de la funcion implementada en Scala
 
 ```Scala
-Error(Integracion(funInt1,3,5),7.33)
+Error(Integracion(funInt4,1,2),1.09861)
 ```
 
 Codigo del marguen de error
@@ -326,22 +329,22 @@ Codigo del marguen de error
 Resultado
 
 ```
-7.33333333
+0.290278888888889
 ```
 </details>
 
 <details>
  
-<summary> PRIMERA EVALUACION DE ERROR </summary>
+<summary> QUINTA EVALUACION DE ERROR </summary>
 
 ```Scala
-def funInt1 (x:Int): Double = -math.pow(x,2)+8*x-12
+def funInt5 (x:Int): Double = -math.exp(x)
 ```
 
 Codigo de la funcion implementada en Scala
 
 ```Scala
-Error(Integracion(funInt1,3,5),7.33)
+Error(Integracion(funInt5,0,1),1.71828)
 ```
 
 Codigo del marguen de error
@@ -349,47 +352,23 @@ Codigo del marguen de error
 Resultado
 
 ```
-7.33333333
-```
-
-</details>
-
-<details>
- 
-<summary> PRIMERA EVALUACION DE ERROR </summary>
-
-```Scala
-def funInt1 (x:Int): Double = -math.pow(x,2)+8*x-12
-```
-
-Codigo de la funcion implementada en Scala
-
-```Scala
-Error(Integracion(funInt1,3,5),7.33)
-```
-
-Codigo del marguen de error
-
-Resultado
-
-```
-7.33333333
+3.004660304743174
 ```
 
 </details>
 
 <details>
  
-<summary> PRIMERA EVALUACION DE ERROR </summary>
+<summary> SEXTA EVALUACION DE ERROR </summary>
 
 ```Scala
-def funInt1 (x:Int): Double = -math.pow(x,2)+8*x-12
+def funInt6 (x:Int): Double = (1)/(math.sqrt(x-1))
 ```
 
 Codigo de la funcion implementada en Scala
 
 ```Scala
-Error(Integracion(funInt1,3,5),7.33)
+Error(Integracion(funInt6,2,3),0.828427)
 ```
 
 Codigo del marguen de error
@@ -397,7 +376,31 @@ Codigo del marguen de error
 Resultado
 
 ```
-7.33333333
+0.1227574635310913
+```
+
+</details>
+
+<details>
+ 
+<summary> SEPTIMA EVALUACION DE ERROR </summary>
+
+```Scala
+def funInt7 (x:Int): Double = (1)/(1+math.pow(x,2))
+```
+
+Codigo de la funcion implementada en Scala
+
+```Scala
+Error(Integracion(funInt7,0,1),0.785398)
+```
+
+Codigo del marguen de error
+
+Resultado
+
+```
+0.1312686666666666
 ```
 
 </details>
