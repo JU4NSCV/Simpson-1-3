@@ -7,9 +7,10 @@ Uno de los métodos de integración numérica se denomina como Simpson 1/3. Ese
 método estable lo siguiente:
 
 **METODO DE SIMPSON**
+
  ![Ecuacion a realizar](https://github.com/JU4NSCV/Simpson-1-3/blob/main/img/1.png)
 
-Donde x = ![Ecuacion a realizar](https://github.com/JU4NSCV/Simpson-1-3/blob/main/img/2.png)
+Donde x =   ![Ecuacion a realizar](https://github.com/JU4NSCV/Simpson-1-3/blob/main/img/2.png)
 
 ## 1. Crear una función con nombre (integracion) que use el método de Simpson para calcular el valor aproximado de cualquier función. 
 
